@@ -26,13 +26,14 @@ In the past, I know my mom used to take down the orders from 3 different WhatsAp
 _Every weekend's orders, tracked by hand — one row per customer, one column per dish, totals calculated down the side and bottom. This is what we were replacing._
 
 And this worked for us exceptionally well in the past and we rarely if ever had any kind of issues with this and so once my dad and I took over, we had a 'why fix whats not broken?' kind of mentality to it. 
-And well, it was kind of broken, because simple errors — writing an order down wrong, forgetting one item for a person, or missing an entire order — actually led to our business losing customers and money in the process. Because who wants to order food only for some of it to never show up? Fixing exactly this kind of problem was a big part of what I set out to do during that gap year. 
+And well, it was kind of broken, because simple errors — writing an order down wrong, forgetting one item for a person, or missing an entire order — actually led to our business losing customers and money in the process. Because who wants to order food only for some of it to never show up? Fixing exactly this kind of problem was a big part of what I set out to do.
 
 ### Where are we now
 So, after staying back and working on our business, I actually started admiring and appreciating the business side of it all. Not just like the customer interaction or the whole cooking thing (which I must say I am still not that good at), but the data part of it as a whole. I started noticing that we have a lot of repeat customers, who actually order similar things, like a fish curry or some kind of a veg curry, things of that nature. They are what I started to look at as dependable trackers of sorts, where we know what to order in terms of ingredients based off how many of the repeat customers we got, and we can establish a baseline of how many orders we might get in a week. Now there are different trends as well that also factor in: if there is a long weekend or if its a summer or winter break these actually lead us to have fewer orders. On the flip side: An Indian festival, or some of the auspicious months would lead us to have a lot more orders for those time frames. These are just trends that I have noticed, but I also wanted to account for this somehow to make it easier for us to know what to kind of orders we can get. 
 
 I also started my Master's in Business Analytics at UTD partly because of how much I started to appreciate the business side of gathering the data, and also because of my undergrad in CS, I wanted to find a way where I can use everything that I have learnt, and still learning, to put it to use to improve a business that I do care about deeply. 
 
-Enter machhmishti.com
+Enter machhmishti.com, and more on that in the upcoming blog posts!
+
 
 
